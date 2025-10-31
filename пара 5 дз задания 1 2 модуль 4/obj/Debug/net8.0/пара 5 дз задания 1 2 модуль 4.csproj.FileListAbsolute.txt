@@ -1,0 +1,14 @@
+C:\Users\Oleg\RiderProjects\ConsoleApp7\пара 5 дз задания 1 2 модуль 4\bin\Debug\net8.0\пара 5 дз задания 1 2 модуль 4.exe
+C:\Users\Oleg\RiderProjects\ConsoleApp7\пара 5 дз задания 1 2 модуль 4\bin\Debug\net8.0\пара 5 дз задания 1 2 модуль 4.deps.json
+C:\Users\Oleg\RiderProjects\ConsoleApp7\пара 5 дз задания 1 2 модуль 4\bin\Debug\net8.0\пара 5 дз задания 1 2 модуль 4.runtimeconfig.json
+C:\Users\Oleg\RiderProjects\ConsoleApp7\пара 5 дз задания 1 2 модуль 4\bin\Debug\net8.0\пара 5 дз задания 1 2 модуль 4.dll
+C:\Users\Oleg\RiderProjects\ConsoleApp7\пара 5 дз задания 1 2 модуль 4\bin\Debug\net8.0\пара 5 дз задания 1 2 модуль 4.pdb
+C:\Users\Oleg\RiderProjects\ConsoleApp7\пара 5 дз задания 1 2 модуль 4\obj\Debug\net8.0\пара 5 дз задания 1 2 модуль 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg\RiderProjects\ConsoleApp7\пара 5 дз задания 1 2 модуль 4\obj\Debug\net8.0\пара 5 дз задания 1 2 модуль 4.AssemblyInfoInputs.cache
+C:\Users\Oleg\RiderProjects\ConsoleApp7\пара 5 дз задания 1 2 модуль 4\obj\Debug\net8.0\пара 5 дз задания 1 2 модуль 4.AssemblyInfo.cs
+C:\Users\Oleg\RiderProjects\ConsoleApp7\пара 5 дз задания 1 2 модуль 4\obj\Debug\net8.0\пара 5 дз задания 1 2 модуль 4.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\RiderProjects\ConsoleApp7\пара 5 дз задания 1 2 модуль 4\obj\Debug\net8.0\пара 5 дз задания 1 2 модуль 4.dll
+C:\Users\Oleg\RiderProjects\ConsoleApp7\пара 5 дз задания 1 2 модуль 4\obj\Debug\net8.0\refint\пара 5 дз задания 1 2 модуль 4.dll
+C:\Users\Oleg\RiderProjects\ConsoleApp7\пара 5 дз задания 1 2 модуль 4\obj\Debug\net8.0\пара 5 дз задания 1 2 модуль 4.pdb
+C:\Users\Oleg\RiderProjects\ConsoleApp7\пара 5 дз задания 1 2 модуль 4\obj\Debug\net8.0\пара 5 дз задания 1 2 модуль 4.genruntimeconfig.cache
+C:\Users\Oleg\RiderProjects\ConsoleApp7\пара 5 дз задания 1 2 модуль 4\obj\Debug\net8.0\ref\пара 5 дз задания 1 2 модуль 4.dll
